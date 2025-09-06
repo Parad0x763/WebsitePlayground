@@ -8,3 +8,5 @@
 - dotnet new webapi -n backend -controllers
 # Gitignore
 - [reactjs/React.NET](https://github.com/reactjs/React.NET/blob/main/.gitignore)
+## .NET Packages
+- dotnet add backend.csproj package Swashbuckle.AspNetCore
