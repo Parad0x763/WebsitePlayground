@@ -6,6 +6,8 @@
 - [vite.dev/guide/](https://vite.dev/guide/)
 # Create backend
 - dotnet new webapi -n backend -controllers
+## Create backend.testing
+- [MSTest Setup](https://learn.microsoft.com/en-us/dotnet/core/tutorials/testing-library-with-visual-studio-code)
 # Gitignore
 - [reactjs/React.NET](https://github.com/reactjs/React.NET/blob/main/.gitignore)
 ## .NET Packages
