@@ -21,6 +21,8 @@ if (app.Environment.IsDevelopment()) {
 
 app.UseHttpsRedirection();
 
+app.UseStaticFiles();
+
 app.MapSwagger().RequireAuthorization();
 
 app.UseAuthorization();
